@@ -1,2 +1,1 @@
-*.pl linguist-language=Perl
-*.pm linguist-language=Perl
+root/static/ linguist-vendored
